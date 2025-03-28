@@ -1,6 +1,6 @@
 # Portfolio_Optimization
 
-This dashboard intends to help people with their own Portfolios at the time of selecting its weights based on the Modern Portfolio Theory (Markowitz 1956). The person can choose the assets he preffers and then based on past performance, an algorithm runs with a Monte Carlo simulation to find the most efficient weights, the ones that maximize the Sharpe Ratio.
+This dashboard intends to help people with their own Portfolios at the time of selecting how much to invest in each stock, its weights are calculated based on the Modern Portfolio Theory (Markowitz 1956). The person can choose the assets he preffers and then based on past performance, an algorithm runs with a Monte Carlo simulation to find the most efficient weights, the ones that maximize the Sharpe Ratio.
 
 **Webscrapping** was used to retrieve the listed stocks both on the S&P and NASDAQ
 
