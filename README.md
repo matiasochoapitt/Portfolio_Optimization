@@ -9,3 +9,7 @@ Finally, a chart is displayed were the performance of the Portfolio is compared 
 **Deploy** was done using streamlit, here is the link: https://optimal-portfolio.streamlit.app/
 
 <img width="726" alt="image" src="https://github.com/user-attachments/assets/f0da842e-8187-4a37-8725-d7c3fc1fb19b" />
+
+**Findings**
+
+Since the model used historical performance to calculate returns and volatility, it is subject to lookahead bias, in some sense, comparisson between the S&P500 and our portfolio is kind of useless because we are selecting the weights that better performed on that period. In order to remove partially this bias, we could rebalance our portfolio each year to find how it performed the following year
