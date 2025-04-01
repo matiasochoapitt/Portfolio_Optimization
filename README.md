@@ -8,4 +8,4 @@ Finally, a chart is displayed were the performance of the Portfolio is compared 
 
 **Deploy** was done using streamlit, here is the link: https://optimal-portfolio.streamlit.app/
 
-![Frontier](https://github.com/user-attachments/assets/eb5ad3e0-d7b4-4f0c-815a-a854948cacdc)
+<img width="726" alt="image" src="https://github.com/user-attachments/assets/f0da842e-8187-4a37-8725-d7c3fc1fb19b" />
